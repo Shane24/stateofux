@@ -1,0 +1,12 @@
+# ignore dependencies installed by npm
+node_modules
+
+# build artifacts
+
+# secrets and errors
+.env
+.log
+
+# macOS related files
+.DS_Store
+
